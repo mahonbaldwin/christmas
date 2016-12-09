@@ -1,10 +1,10 @@
 # cl
 
-FIXME: Write a one-line description of your library/project.
+Simple Rotating Christmas Recipient List.
 
 ## Overview
 
-FIXME: Write a paragraph about the library/project and highlight its goals.
+Given a list of people, this application will display a list of givers and recievers, rotating each year.
 
 ## Setup
 
